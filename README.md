@@ -1,2 +1,2 @@
-# hello-world
-code repository for classes and learning
+# Mechatronics-Using-RPi
+Mechatronics class utilizing the RPi and the Python language
